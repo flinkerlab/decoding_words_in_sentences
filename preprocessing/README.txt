@@ -1,0 +1,1 @@
+This directory contains preprocessing scripts for aligning PsychoPy (epxerimental software) log, audio recording, and ECoG recordings; referencing potentials and extracting high gamma and beta amplitude; and epoching data.
