@@ -1,0 +1,1 @@
+This directory contains all analysis scripts for this project. MATLAB scripts (.m files) were used to plot brains using the data generated in R scripts (.R) with the corresponding number (e.g., the results of analyses in "2c - anova BF in windows for brain plots.R" are plotted in "m2c_plot_anova_bfs_on_brains_in_time_bins.m").
